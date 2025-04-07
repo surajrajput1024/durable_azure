@@ -1,0 +1,7 @@
+azure-functions
+azure-functions-durable
+pandas
+dask
+pyod
+requests
+azure-storage-blob 
